@@ -12,6 +12,9 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
 developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+[![Codecov test
+coverage](https://codecov.io/gh/Lingtax/gendercoder/branch/master/graph/badge.svg)](https://codecov.io/gh/Lingtax/gendercoder?branch=master)
+[![R-CMD-check](https://github.com/Lingtax/gendercoder/workflows/R-CMD-check/badge.svg)](https://github.com/Lingtax/gendercoder/actions)
 <!-- badges: end -->
 
 The goal of gendercodeR is to allow simple re-coding of free-text gender

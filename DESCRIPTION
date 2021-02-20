@@ -27,7 +27,8 @@ Suggests:
     testthat (>= 2.1.0),
     knitr,
     rmarkdown,
-    dplyr
+    dplyr,
+    covr
 VignetteBuilder: knitr
 URL: https://github.com/ropenscilabs/gendercoder
 BugReports: https://github.com/ropenscilabs/gendercoder/issues
